@@ -4,7 +4,7 @@ A Secure and Private Patient-Centric Health Information Exchange Framework Using
 
 Tech Stack :
 
-MERN
-Blockchain - Solidity, JAVA
-RPC Server
-Ethereum
+MERN    
+Blockchain - Solidity, JAVA  
+RPC Server  
+Ethereum  
